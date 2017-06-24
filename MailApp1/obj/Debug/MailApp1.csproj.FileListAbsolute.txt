@@ -1,0 +1,20 @@
+C:\Users\A0714786\Documents\SharpDevelop Projects\MailApp1\MailApp1\bin\Debug\MailApp1.exe
+C:\Users\A0714786\Documents\SharpDevelop Projects\MailApp1\MailApp1\bin\Debug\MailApp1.pdb
+C:\Users\A0714786\Documents\SharpDevelop Projects\MailApp1\MailApp1\obj\Debug\MailApp1.csprojResolveAssemblyReference.cache
+C:\Users\A0714786\Documents\SharpDevelop Projects\MailApp1\MailApp1\obj\Debug\MailApp1.exe
+C:\Users\A0714786\Documents\SharpDevelop Projects\MailApp1\MailApp1\obj\Debug\MailApp1.pdb
+C:\Users\A0714786\Documents\SharpDevelop Projects\MailApp1\MailApp1\obj\Debug\MailApp1.MainForm.resources
+C:\Users\A0714786\Documents\SharpDevelop Projects\MailApp1\MailApp1\obj\Debug\MailApp1.csproj.GenerateResource.Cache
+C:\Users\A0714786\Documents\SharpDevelop Projects\MailApp1\MailApp1\bin\Debug\stdole.dll
+C:\Users\Majkel\Documents\Visual Studio 2015\Projects\MailAppCSharp\MailApp1\MailApp1\obj\Debug\MailApp1.exe
+C:\Users\Majkel\Documents\Visual Studio 2015\Projects\MailAppCSharp\MailApp1\MailApp1\obj\Debug\MailApp1.pdb
+C:\Users\Majkel\Documents\Visual Studio 2015\Projects\MailAppCSharp\MailApp1\MailApp1\bin\Debug\MailApp1.exe
+C:\Users\Majkel\Documents\Visual Studio 2015\Projects\MailAppCSharp\MailApp1\MailApp1\bin\Debug\MailApp1.pdb
+C:\Users\Majkel\Documents\Visual Studio 2015\Projects\MailAppCSharp\MailApp1\MailApp1\bin\Debug\stdole.dll
+C:\Users\Majkel\Documents\Visual Studio 2015\Projects\MailAppCSharp\MailApp1\MailApp1\obj\Debug\MailApp1.csprojResolveAssemblyReference.cache
+C:\Users\Majkel\Documents\Visual Studio 2015\Projects\MailAppCSharp\MailApp1\MailApp1\obj\Debug\MailApp1.MainForm.resources
+C:\Users\Majkel\Documents\Visual Studio 2015\Projects\MailAppCSharp\MailApp1\MailApp1\obj\Debug\MailApp1.csproj.GenerateResource.Cache
+C:\Users\Majkel\Documents\Visual Studio 2015\Projects\MailAppCSharp\MailApp1\MailApp1\bin\Debug\MailApp1.exe.manifest
+C:\Users\Majkel\Documents\Visual Studio 2015\Projects\MailAppCSharp\MailApp1\MailApp1\bin\Debug\MailApp1.application
+C:\Users\Majkel\Documents\Visual Studio 2015\Projects\MailAppCSharp\MailApp1\MailApp1\obj\Debug\MailApp1.exe.manifest
+C:\Users\Majkel\Documents\Visual Studio 2015\Projects\MailAppCSharp\MailApp1\MailApp1\obj\Debug\MailApp1.application
